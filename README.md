@@ -131,5 +131,6 @@ php artisan test
 
 ## 👤 Author
 **DevAliG (Ali Ghanbarzadeh)**  
-Backend Developer — Laravel & PHP  
+SaaS & MVP Builder | Tech Content Creator
+
 [LinkedIn](https://www.linkedin.com/in/devalig) • [GitHub](https://github.com/DevAliG)
