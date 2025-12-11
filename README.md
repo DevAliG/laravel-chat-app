@@ -129,9 +129,7 @@ php artisan test
 - [ ] Notifications
 - [ ] Deployment to Render/AWS
 
-## 👤 Author
-** Ali Ghanbarzadeh (TheSeyqal)**  
-SaaS & MVP Builder | Tech Content Creator | Educator
+---
 
 ### 🌐 Socials  
 [LinkedIn](https://www.linkedin.com/in/alighanbarzadeh) | [YouTube](https://www.youtube.com/@theseyqal) | [X](https://x.com/TheSeyqal) | [TikTok](https://www.tiktok.com/@theseyqal) | [GitHub](https://github.com/Theseyqal) 
